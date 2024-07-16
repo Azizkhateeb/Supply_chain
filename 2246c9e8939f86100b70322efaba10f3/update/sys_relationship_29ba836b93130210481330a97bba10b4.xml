@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>sys_db_object</basic_apply_to>
+        <basic_query_from/>
+        <insert_callback/>
+        <name>Tasks table</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 05:36:38</sys_created_on>
+        <sys_id>29ba836b93130210481330a97bba10b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks table</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_relationship_29ba836b93130210481330a97bba10b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 05:36:38</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=29ba836b93130210481330a97bba10b4"/>
+    <sys_ui_related_list_relationship_entry action="INSERT_OR_UPDATE">
+        <filter/>
+        <list_id display_value="Table - Default view" name="sys_db_object" related_list="NULL" sys_domain="global" view="Default view">87ebcfab93130210481330a97bba1014</list_id>
+        <order_by/>
+        <position>4</position>
+        <related_list>REL:29ba836b93130210481330a97bba10b4</related_list>
+        <sys_class_name>sys_ui_related_list_relationship_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 05:41:26</sys_created_on>
+        <sys_id>43ebcfab93130210481330a97bba1017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_relationship display_value="Tasks table">29ba836b93130210481330a97bba10b4</sys_relationship>
+        <sys_ui_related_list display_value="Table - Default view" name="sys_db_object" related_list="NULL" sys_domain="global" view="Default view">87ebcfab93130210481330a97bba1014</sys_ui_related_list>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 05:41:26</sys_updated_on>
+    </sys_ui_related_list_relationship_entry>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1441475_supply_0_onsite_repairs">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>Supply Chain Management - x_1441475_supply_0_onsit</name>
+        <roles/>
+        <source_table>x_1441475_supply_0_onsite_repairs</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 17:18:30</sys_created_on>
+        <sys_id>d98b3f8a93d70210481330a97bba102f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain Management - x_1441475_supply_0_onsit</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_search_source_d98b3f8a93d70210481330a97bba102f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 17:18:30</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=d98b3f8a93d70210481330a97bba102f"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">baea9e0df817c21033eda983e1034d11</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">7eea9e0d5f17c210cfa27b244f9b9408</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-08 07:42:33</sys_created_on>
+        <sys_id>f2ea9e0d5c17c210722399dec80a0a09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_f2ea9e0d5c17c210722399dec80a0a09</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 07:42:33</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

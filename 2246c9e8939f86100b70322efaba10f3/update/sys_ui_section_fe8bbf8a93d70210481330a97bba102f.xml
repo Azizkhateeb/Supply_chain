@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fe8bbf8a93d70210481330a97bba102f" sys_domain="global" table="x_1441475_supply_0_onsite_repairs" version="3" view="workspace-supply-chain-management-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_time_of_service</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1095</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>7a8bff8a93d70210481330a97bba108f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimate</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unit</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_requested</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>basin_location</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>frac_spread_identifier</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>g_l_code</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actual_invoice</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice_amount</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_sent_to_a_p</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_posted_in_sap</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>cf8bff8a93d70210481330a97bba1099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>478bff8a93d70210481330a97bba10b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location_region</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1094</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>4f8bff8a93d70210481330a97bba10b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>fe8bff8a93d70210481330a97bba1094</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>478bff8a93d70210481330a97bba10b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_id>f68bff8a93d70210481330a97bba1095</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_supply_0_onsite_repairs" sys_domain="global" view="e37b7b8ab9d70210c6407a55a55135b7">fe8bbf8a93d70210481330a97bba102f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1441475_supply_0_onsite_repairs</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-11 17:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe8bbf8a93d70210481330a97bba102f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1441475_supply_0_onsite_repairs</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+            <sys_update_name>sys_ui_section_fe8bbf8a93d70210481330a97bba102f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-11 17:18:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Supply Chain Management 0" name="workspace-supply-chain-management-0">e37b7b8ab9d70210c6407a55a55135b7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1441475_supply_0.supply chain user" name="x_1441475_supply_0.supply chain user">5bd4ea24935f0210481330a97bba106b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 19:09:00</sys_created_on>
+        <sys_id>dbd4ea24935f0210481330a97bba106e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5bd4ea24935f0210481330a97bba106b</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dbd4ea24935f0210481330a97bba106e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 19:09:00</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
