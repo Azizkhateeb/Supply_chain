@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="DELETE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Supply Chain Management">e37b7b8a95d70210ff5983cf0f4ec1ba</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_1441475_supply_0.supply chain user" name="x_1441475_supply_0.supply chain user">5bd4ea24935f0210481330a97bba106b</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 17:18:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>fc8bfb8a93d70210481330a97bba105d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e37b7b8a95d70210ff5983cf0f4ec1ba</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>par_dashboard_permission_fc8bfb8a93d70210481330a97bba105d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 17:18:28</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</application>
+        <file_path/>
+        <instance_id>9a1d15391b1efddc65324089bd4bcb98</instance_id>
+        <instance_name>dev204278</instance_name>
+        <name>par_dashboard_permission_fc8bfb8a93d70210481330a97bba105d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>false</can_share><can_write>false</can_write><dashboard display_value="Supply Chain Management">e37b7b8a95d70210ff5983cf0f4ec1ba</dashboard><group/><owner>false</owner><role display_value="x_1441475_supply_0.supply chain user" name="x_1441475_supply_0.supply chain user">5bd4ea24935f0210481330a97bba106b</role><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-11 17:18:28</sys_created_on><sys_domain>global</sys_domain><sys_id>fc8bfb8a93d70210481330a97bba105d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>e37b7b8a95d70210ff5983cf0f4ec1ba</sys_name><sys_overrides/><sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package><sys_policy/><sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope><sys_update_name>par_dashboard_permission_fc8bfb8a93d70210481330a97bba105d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-11 17:18:28</sys_updated_on><user/></par_dashboard_permission></record_update>]]></payload>
+        <payload_hash>1467197697</payload_hash>
+        <record_name>e37b7b8a95d70210ff5983cf0f4ec1ba</record_name>
+        <reverted_from/>
+        <source>4d8f5ee8931f0210481330a97bba1007</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 17:18:28</sys_created_on>
+        <sys_id>308bfb8a93d70210481330a97bba1060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190a2cdb3530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 17:18:28</sys_updated_on>
+        <type>PAR Dashboard Permission</type>
+        <update_guid>348bfb8a34d702107c0e2f37715c515f</update_guid>
+        <update_guid_history>348bfb8a34d702107c0e2f37715c515f:1467197697</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">dc0c95d093630210481330a97bba10f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 05:27:54</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_permission">par_dashboard_permission</sys_db_object>
+        <sys_id>1dd53255051741e89e243edf722f9040</sys_id>
+        <sys_metadata>fc8bfb8a93d70210481330a97bba105d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e37b7b8a95d70210ff5983cf0f4ec1ba</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_scope_delete display_value="">3fcc35924f0049409006b6d33440c400</sys_scope_delete>
+        <sys_update_name>par_dashboard_permission_fc8bfb8a93d70210481330a97bba105d</sys_update_name>
+        <sys_update_version display_value="par_dashboard_permission_fc8bfb8a93d70210481330a97bba105d">308bfb8a93d70210481330a97bba1060</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 05:27:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

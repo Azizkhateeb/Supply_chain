@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 06:24:43</sys_created_on>
+        <sys_id>635f862d832b421065299065eeaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1441475_supply_0_tire_services_tasks.x_1441475_supply_0.tire_services_tasks_user</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_security_acl display_value="x_1441475_supply_0_tire_services_tasks">a35f862d832b421065299065eeaad33a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_635f862d832b421065299065eeaad33d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 06:24:43</sys_updated_on>
+        <sys_user_role display_value="x_1441475_supply_0.tire_services_tasks_user" name="x_1441475_supply_0.tire_services_tasks_user">1f5f06e9832b421065299065eeaad380</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</application>
+        <file_path/>
+        <instance_id>9a1d15391b1efddc65324089bd4bcb98</instance_id>
+        <instance_name>dev204278</instance_name>
+        <name>sys_security_acl_role_635f862d832b421065299065eeaad33d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-22 06:24:43</sys_created_on><sys_id>635f862d832b421065299065eeaad33d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1441475_supply_0_tire_services_tasks.x_1441475_supply_0.tire_services_tasks_user</sys_name><sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package><sys_policy/><sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope><sys_security_acl display_value="x_1441475_supply_0_tire_services_tasks">a35f862d832b421065299065eeaad33a</sys_security_acl><sys_update_name>sys_security_acl_role_635f862d832b421065299065eeaad33d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-22 06:24:43</sys_updated_on><sys_user_role display_value="x_1441475_supply_0.tire_services_tasks_user" name="x_1441475_supply_0.tire_services_tasks_user">1f5f06e9832b421065299065eeaad380</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1494540933</payload_hash>
+        <record_name>x_1441475_supply_0_tire_services_tasks.x_1441475_supply_0.tire_services_tasks_user</record_name>
+        <reverted_from/>
+        <source>d046dc3b93970210481330a97bba10db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 06:24:43</sys_created_on>
+        <sys_id>ab5f862d832b421065299065eeaad33f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190d91d205d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 06:24:43</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>af5f862df22b42106a22fe98be0fbd3e</update_guid>
+        <update_guid_history>af5f862df22b42106a22fe98be0fbd3e:1494540933</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1441475_supply_0_tire_services_tasks.x_1441475_supply_0.tire_services_tasks_us">5110966d832b421065299065eeaad3e3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 06:27:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>97b540af726546789ddd947127b4ee40</sys_id>
+        <sys_metadata>635f862d832b421065299065eeaad33d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1441475_supply_0_tire_services_tasks.x_1441475_supply_0.tire_services_tasks_user</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_parent display_value="">a35f862d832b421065299065eeaad33a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_scope_delete display_value="">3fcc35924f0049409006b6d33440c400</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_635f862d832b421065299065eeaad33d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_635f862d832b421065299065eeaad33d">ab5f862d832b421065299065eeaad33f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 06:27:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

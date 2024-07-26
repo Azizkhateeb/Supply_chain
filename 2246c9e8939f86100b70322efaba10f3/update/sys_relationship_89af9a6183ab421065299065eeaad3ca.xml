@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_1441475_supply_0_onsite_repairs</basic_apply_to>
+        <basic_query_from>x_1441475_supply_0_onsite_repairs_tasks</basic_query_from>
+        <insert_callback/>
+        <name>Onsite Repairs - Tasks</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 07:36:24</sys_created_on>
+        <sys_id>89af9a6183ab421065299065eeaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Onsite Repairs - Tasks</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_relationship_89af9a6183ab421065299065eeaad3ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 07:36:24</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=89af9a6183ab421065299065eeaad3ca"/>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">237b7b8a79d70210fa9a828146deaeba</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1441475_supply_0_onsite_repairs","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":""}</component_props>
+        <h>18</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 17:18:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>637b7b8a08d70210f0664e2ab7a6d5b9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>par_dashboard_widget_637b7b8a08d70210f0664e2ab7a6d5b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 17:18:27</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</application>
+        <file_path/>
+        <instance_id>9a1d15391b1efddc65324089bd4bcb98</instance_id>
+        <instance_name>dev204278</instance_name>
+        <name>par_dashboard_widget_637b7b8a08d70210f0664e2ab7a6d5b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">237b7b8a79d70210fa9a828146deaeba</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1441475_supply_0_onsite_repairs","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":""}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-11 17:18:23</sys_created_on><sys_domain>global</sys_domain><sys_id>637b7b8a08d70210f0664e2ab7a6d5b9</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package><sys_policy/><sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope><sys_update_name>par_dashboard_widget_637b7b8a08d70210f0664e2ab7a6d5b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-11 17:18:27</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1442558495</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4d8f5ee8931f0210481330a97bba1007</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 17:18:27</sys_created_on>
+        <sys_id>fc8bfb8a93d70210481330a97bba1033</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190a2cdb1ec0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 17:18:27</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>b48bfb8a1ad702106a1076c6acd85e33</update_guid>
+        <update_guid_history>b48bfb8a1ad702106a1076c6acd85e33:-1442558495,b88bfb8adcd70210e848888ebb663b31:-887467604</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">800c95d093630210481330a97bba1090</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 05:27:53</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0067f33c8cf04e2e8450cf92a1427ea4</sys_id>
+        <sys_metadata>637b7b8a08d70210f0664e2ab7a6d5b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_scope_delete display_value="">3fcc35924f0049409006b6d33440c400</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_637b7b8a08d70210f0664e2ab7a6d5b9</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_637b7b8a08d70210f0664e2ab7a6d5b9">fc8bfb8a93d70210481330a97bba1033</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 05:27:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

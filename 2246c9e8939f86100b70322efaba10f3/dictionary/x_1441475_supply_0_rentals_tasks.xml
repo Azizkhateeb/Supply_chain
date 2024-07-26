@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0cf9f2e5832f421065299065eeaad333" extends="x_1441475_supply_0_rentals" label="Rentals - Tasks" max_length="40" name="x_1441475_supply_0_rentals_tasks" type="collection">
+        <element label="Target Date" max_length="255" name="target_date" type="calendar_date_time"/>
+        <element choice="1" label="Action Status" max_length="40" name="action_status" type="choice">
+            <choice/>
+        </element>
+        <element label="Close Date" max_length="255" name="close_date" type="calendar_date_time"/>
+        <element choice="1" label="Action Summary" max_length="40" name="action_summary" type="string">
+            <choice>
+                <element inactive_on_update="false" label="In Process" sequence="0" value="In Process"/>
+                <element inactive_on_update="false" label="Validated" sequence="1" value="Validated"/>
+                <element inactive_on_update="false" label="Complete" sequence="2" value="Complete"/>
+            </choice>
+        </element>
+    </element>
+</database>

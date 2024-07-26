@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="">e37b7b8a95d70210ff5983cf0f4ec1ba</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 17:18:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6f7b7b8a92d70210c1342e4d599680b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>par_dashboard_tab_6f7b7b8a92d70210c1342e4d599680b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 17:18:24</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</application>
+        <file_path/>
+        <instance_id>9a1d15391b1efddc65324089bd4bcb98</instance_id>
+        <instance_name>dev204278</instance_name>
+        <name>par_dashboard_tab_6f7b7b8a92d70210c1342e4d599680b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="">e37b7b8a95d70210ff5983cf0f4ec1ba</dashboard><name>Tab</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-11 17:18:24</sys_created_on><sys_domain>global</sys_domain><sys_id>6f7b7b8a92d70210c1342e4d599680b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tab</sys_name><sys_overrides/><sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package><sys_policy/><sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope><sys_update_name>par_dashboard_tab_6f7b7b8a92d70210c1342e4d599680b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-11 17:18:24</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>-108084427</payload_hash>
+        <record_name>Tab</record_name>
+        <reverted_from/>
+        <source>ab45082393220210481330a97bba10a8</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-08 08:26:34</sys_created_on>
+        <sys_id>d80c95d093630210481330a97bba10fc</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18ff6f4de900000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>980c95d0f36302103e8f27960fb803fc</update_guid>
+        <update_guid_history>980c95d0f36302103e8f27960fb803fc:-108084427</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tab">d00c95d093630210481330a97bba10fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 05:27:54</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>7299bd0ffe52430594fa04e6e7ec4e01</sys_id>
+        <sys_metadata>6f7b7b8a92d70210c1342e4d599680b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_scope_delete display_value="">3fcc35924f0049409006b6d33440c400</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_6f7b7b8a92d70210c1342e4d599680b9</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_6f7b7b8a92d70210c1342e4d599680b9">d80c95d093630210481330a97bba10fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 05:27:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

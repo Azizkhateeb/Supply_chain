@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="28ad5e2183ab421065299065eeaad317" extends="x_1441475_supply_0_onsite_repairs" label="Onsite Repairs - Tasks" max_length="40" name="x_1441475_supply_0_onsite_repairs_tasks" type="collection">
+        <element label="Action Summary" max_length="40" name="action_summary" type="string"/>
+        <element label="Assigned to" max_length="32" name="assigned_t0" reference="sys_user" type="reference"/>
+        <element label="Close Date" max_length="255" name="close_date" type="calendar_date_time"/>
+        <element choice="1" label="Action Status" max_length="40" name="action_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="validated" sequence="1" value="validated"/>
+                <element inactive_on_update="false" label="In Process" sequence="0" value="In Process"/>
+                <element inactive_on_update="false" label="Complete" sequence="2" value="Complete"/>
+            </choice>
+        </element>
+        <element label="Target Date" max_length="255" name="target_date" type="calendar_date_time"/>
+    </element>
+</database>

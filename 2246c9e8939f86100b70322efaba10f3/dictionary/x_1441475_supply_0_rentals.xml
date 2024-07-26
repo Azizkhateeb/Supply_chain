@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a5b9c52093df86100b70322efaba1034" extends="task" label="Rentals" max_length="40" name="x_1441475_supply_0_rentals" text_index="true" type="collection">
+    <element audit="true" db_object_id="a5b9c52093df86100b70322efaba1034" extends="task" label="Rentals" max_length="40" name="x_1441475_supply_0_rentals" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Vendor" mandatory="true" max_length="32" name="vendor" reference="sys_user" type="reference"/>
         <element label="Environmental Fee" max_length="40" name="environmental_fee" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Qty" max_length="40" name="qty" type="choice">
@@ -19,6 +19,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Facilities of Customer" mandatory="true" max_length="32" name="facilities_of_customer" reference="sys_user" type="reference"/>
         <element label="Start Date" max_length="40" name="start_date" type="calendar_date_time"/>
+        <element label="Vendors Phone" max_length="40" name="vendors_phone" read_only="true" type="string"/>
         <element label="Month" mandatory="true" max_length="40" name="month" type="glide_date"/>
         <element label="End Date" max_length="40" name="end_date" type="calendar_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="GL Code" max_length="40" name="gl_code" type="choice">
@@ -56,5 +57,6 @@
         </element>
         <element label="Contract" max_length="40" name="contrac0" type="string"/>
         <element attributes="edge_encryption_enabled=true,omit_sys_original=true" label="Invoice Total" max_length="20" name="invoice_total" type="currency"/>
+        <element label="Vendors Email" max_length="40" name="vendors_email" read_only="true" type="string"/>
     </element>
 </database>

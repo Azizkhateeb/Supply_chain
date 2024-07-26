@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>TEMPLATE2</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 06:44:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf7d577d83e3c21065299065eeaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE2</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_template_cf7d577d83e3c21065299065eeaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 06:44:57</sys_updated_on>
+        <table>x_1441475_supply_0_tire_service</table>
+        <template>basin=Basin 1^brief_service_description=zxcvb^customer=3eaeca8d93724610481330a97bba1060^delivery_receipt_dr=vncbv^license_plate=iuygf^quantity=2^requester=e627770093fa0210481330a97bba102b^service_center=SC1^service_location=nbv^state=1^tire_model=Model 1^u_boolean_2=true^u_calendar_date_time_1=29/08/2024 23:41:31^u_frac_crew=c97024fe53271300e321ddeeff7b1233^unit=3eaeca8d93724610481330a97bba1060^unit_type=Unit 1^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

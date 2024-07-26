@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>sys_db_object</basic_apply_to>
+        <basic_query_from/>
+        <insert_callback/>
+        <name>Tasks Table</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 05:36:02</sys_created_on>
+        <sys_id>732843a793130210481330a97bba1063</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks Table</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_relationship_732843a793130210481330a97bba1063</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 05:36:02</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=732843a793130210481330a97bba1063"/>
+    <sys_ui_related_list_relationship_entry action="DELETE">
+        <filter/>
+        <list_id display_value="Table - Default view" name="sys_db_object" related_list="NULL" sys_domain="global" view="Default view">6357f26053211200398001fa16dc34cc</list_id>
+        <order_by/>
+        <position>9</position>
+        <related_list>REL:732843a793130210481330a97bba1063</related_list>
+        <sys_class_name>sys_ui_related_list_relationship_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 05:36:02</sys_created_on>
+        <sys_id>c8ba436b93130210481330a97bba10f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_relationship display_value="Tasks Table">732843a793130210481330a97bba1063</sys_relationship>
+        <sys_ui_related_list display_value="Table - Default view" name="sys_db_object" related_list="NULL" sys_domain="global" view="Default view">6357f26053211200398001fa16dc34cc</sys_ui_related_list>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 05:36:02</sys_updated_on>
+    </sys_ui_related_list_relationship_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</application>
+        <file_path/>
+        <instance_id>9a1d15391b1efddc65324089bd4bcb98</instance_id>
+        <instance_name>dev204278</instance_name>
+        <name>sys_relationship_732843a793130210481330a97bba1063</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;sys_db_object&lt;/basic_apply_to&gt;&lt;basic_query_from/&gt;&lt;insert_callback/&gt;&lt;name&gt;Tasks Table&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]&gt;&lt;/query_with&gt;&lt;reference_field/&gt;&lt;related_list/&gt;&lt;simple_reference&gt;false&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-16 05:36:02&lt;/sys_created_on&gt;&lt;sys_id&gt;732843a793130210481330a97bba1063&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Tasks Table&lt;/sys_name&gt;&lt;sys_package display_value="Supply Chain Management" source="x_1441475_supply_0"&gt;2246c9e8939f86100b70322efaba10f3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Supply Chain Management"&gt;2246c9e8939f86100b70322efaba10f3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_732843a793130210481330a97bba1063&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-16 05:36:02&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=732843a793130210481330a97bba1063"/&gt;&lt;sys_ui_related_list_relationship_entry action="INSERT_OR_UPDATE"&gt;&lt;filter/&gt;&lt;list_id display_value="Table - Default view" name="sys_db_object" related_list="NULL" sys_domain="global" view="Default view"&gt;6357f26053211200398001fa16dc34cc&lt;/list_id&gt;&lt;order_by/&gt;&lt;position&gt;9&lt;/position&gt;&lt;related_list&gt;REL:732843a793130210481330a97bba1063&lt;/related_list&gt;&lt;sys_class_name&gt;sys_ui_related_list_relationship_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-16 05:36:02&lt;/sys_created_on&gt;&lt;sys_id&gt;c8ba436b93130210481330a97bba10f3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_relationship display_value="Tasks Table"&gt;732843a793130210481330a97bba1063&lt;/sys_relationship&gt;&lt;sys_ui_related_list display_value="Table - Default view" name="sys_db_object" related_list="NULL" sys_domain="global" view="Default view"&gt;6357f26053211200398001fa16dc34cc&lt;/sys_ui_related_list&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-16 05:36:02&lt;/sys_updated_on&gt;&lt;/sys_ui_related_list_relationship_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>828283661</payload_hash>
+        <record_name>Tasks Table</record_name>
+        <reverted_from/>
+        <source>4d8f5ee8931f0210481330a97bba1007</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 05:36:02</sys_created_on>
+        <sys_id>48ba436b93130210481330a97bba10f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190ba0a68f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 05:36:02</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>0cba436b5f1302102223ad23b6c194f8</update_guid>
+        <update_guid_history>0cba436b5f1302102223ad23b6c194f8:828283661</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 05:24:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>a12cb862c6494e58998f3003c1571de4</sys_id>
+        <sys_metadata>732843a793130210481330a97bba1063</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks Table</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_parent display_value="Sys Db Object">ecf230203c31311068bcf327dfe37f8b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_scope_delete display_value="">3fcc35924f0049409006b6d33440c400</sys_scope_delete>
+        <sys_update_name>sys_relationship_732843a793130210481330a97bba1063</sys_update_name>
+        <sys_update_version display_value="sys_relationship_732843a793130210481330a97bba1063">48ba436b93130210481330a97bba10f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 05:24:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

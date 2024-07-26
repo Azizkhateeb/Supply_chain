@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order>100</order>
-        <roles/>
+        <roles>admin</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-11 17:24:10</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a9ccff0e93d70210481330a97bba1040</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Supply Chain</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
         <sys_update_name>sys_app_application_a9ccff0e93d70210481330a97bba1040</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-11 17:24:10</sys_updated_on>
+        <sys_updated_on>2024-07-18 04:43:06</sys_updated_on>
         <title>Supply Chain</title>
         <view_name/>
     </sys_app_application>

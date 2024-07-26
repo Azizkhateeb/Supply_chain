@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Tire Services - Tasks</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Tire Services - Tasks</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">19d3fca43c31311068bcf327dfe37f33</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 06:24:43</sys_created_on>
+        <sys_id>a75f862d832b421065299065eeaad35e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tire Services - Tasks</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_update_name>sys_wizard_answer_a75f862d832b421065299065eeaad35e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 06:24:43</sys_updated_on>
+        <table/>
+        <target_url>x_1441475_supply_0_tire_services_tasks.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</application>
+        <file_path/>
+        <instance_id>9a1d15391b1efddc65324089bd4bcb98</instance_id>
+        <instance_name>dev204278</instance_name>
+        <name>sys_wizard_answer_a75f862d832b421065299065eeaad35e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Tire Services - Tasks</answer><button_label/><dependent_value/><element/><name>Tire Services - Tasks</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">19d3fca43c31311068bcf327dfe37f33</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-22 06:24:43</sys_created_on><sys_id>a75f862d832b421065299065eeaad35e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tire Services - Tasks</sys_name><sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package><sys_policy/><sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope><sys_update_name>sys_wizard_answer_a75f862d832b421065299065eeaad35e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-22 06:24:43</sys_updated_on><table/><target_url>x_1441475_supply_0_tire_services_tasks.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1896683743</payload_hash>
+        <record_name>Tire Services - Tasks</record_name>
+        <reverted_from/>
+        <source>ab45082393220210481330a97bba10a8</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-08 08:26:34</sys_created_on>
+        <sys_id>4e10d66d832b421065299065eeaad343</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18ff6f4de900000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>0e10d66db92b42109de54680ef17b943</update_guid>
+        <update_guid_history>0e10d66db92b42109de54680ef17b943:1896683743</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 06:27:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>06b08abaaa6542438183258a7056dd49</sys_id>
+        <sys_metadata>a75f862d832b421065299065eeaad35e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tire Services - Tasks</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_1441475_supply_0">2246c9e8939f86100b70322efaba10f3</sys_package>
+        <sys_parent display_value="Task">19d3fca43c31311068bcf327dfe37f33</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">2246c9e8939f86100b70322efaba10f3</sys_scope>
+        <sys_scope_delete display_value="">3fcc35924f0049409006b6d33440c400</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_a75f862d832b421065299065eeaad35e</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_a75f862d832b421065299065eeaad35e">4e10d66d832b421065299065eeaad343</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 06:27:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

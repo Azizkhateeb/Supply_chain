@@ -14,6 +14,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-07-06 20:02:41</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-22 09:47:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10bd326d832f421065299065eeaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1441475_supply_0_rentals" name="x_1441475_supply_0_rentals" sys_domain="global" view="Default view">29217ea893d7c6100b70322efaba10ff</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1441475_supply_0_rentals" sys_domain="global" view="Default view">58bdfe2d832f421065299065eeaad3fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 09:47:06</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1441475_supply_0_rentals</name>
             <roles/>
